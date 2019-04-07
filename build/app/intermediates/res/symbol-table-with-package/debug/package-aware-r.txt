@@ -1,0 +1,4 @@
+com.example.flutter_assignment_02
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
